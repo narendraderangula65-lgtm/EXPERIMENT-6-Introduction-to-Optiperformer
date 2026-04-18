@@ -69,23 +69,19 @@ The system includes:
 ## Tabulation
 
 **Transmission Analysis Across Fiber Lengths**
+<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/46c359ad-e39a-4d28-b189-4a973c07220f" />
 
-| S.No | Fiber Length (km) | Optical Power (Watts) | Optical Power (dBm) | Max Q Factor | Min BER | Eye Height | Decision Instant (Max Q / Min BER) |
-|------|-------------------|------------------------|----------------------|--------------|---------|-------------|-------------------------------------|
-|      |                   |                        |                      |              |         |             |                                     |
-|      |                   |                        |                      |              |         |             |                                     |
-|      |                   |                        |                      |              |         |             |                                     |
-|      |                   |                        |                      |              |         |             |                                     |
-|      |                   |                        |                      |              |         |             |                                     |
 
 ---
 
 ## Graphs
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/dee6ef6e-bba6-44f2-97eb-08be6e59b483" />
 
-*(Insert plots of Optical Power, Q Factor, and BER vs. Fiber Length here)*
+
 
 ---
 
 ## RESULT
+The OptiPerformer simulation of the optical communication system was successfully executed, and system performance was analyzed for different fiber lengths. It was observed that as fiber length increased, the received power decreased and BER increased, degrading the overall signal quality.
 
-*(Summarize key findings from simulation and analysis)*
+
